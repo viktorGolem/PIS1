@@ -1,3 +1,3 @@
 moj prvi projekt
-nova linija
+nova moja linija
 dfajdsahd
